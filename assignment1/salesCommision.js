@@ -3,6 +3,7 @@
 
 
 let commission;
+const prompt = require("prompt-sync")();
 
 let checkSalary = prompt(" do you have salary? : ");
 
